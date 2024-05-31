@@ -1,0 +1,13 @@
+2024-05-30 23:54:46.739  INFO 1480 --- [main] c.e.c.CustomerServiceApplication         : Starting CustomerServiceApplication using Java 17.0.7 on SHAMA with PID 1480 (C:\Users\shama\Downloads\nt\customer-service\target\classes started by shama in C:\Users\shama\Downloads\nt\customer-service)
+2024-05-30 23:54:46.741 DEBUG 1480 --- [main] c.e.c.CustomerServiceApplication         : Running with Spring Boot v2.5.6, Spring v5.3.12
+2024-05-30 23:54:46.741  INFO 1480 --- [main] c.e.c.CustomerServiceApplication         : No active profile set, falling back to default profiles: default
+2024-05-30 23:54:47.288  INFO 1480 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2024-05-30 23:54:47.297  INFO 1480 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-30 23:54:47.297  INFO 1480 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+2024-05-30 23:54:47.338  INFO 1480 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-30 23:54:47.339  INFO 1480 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 568 ms
+2024-05-30 23:54:47.568  INFO 1480 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2024-05-30 23:54:47.575  INFO 1480 --- [main] c.e.c.CustomerServiceApplication         : Started CustomerServiceApplication in 1.104 seconds (JVM running for 1.305)
+2024-05-30 23:56:33.040  INFO 1480 --- [http-nio-8090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-30 23:56:33.040  INFO 1480 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-05-30 23:56:33.041  INFO 1480 --- [http-nio-8090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
